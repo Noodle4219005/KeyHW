@@ -1,0 +1,12 @@
+<ol>
+<li><span style="font-size:28px;"><strong><span style="color:#2577da;">完成</span> 英文、歷史、數學學習歷程(紙本)</strong></span></li>
+<li><span style="font-size:28px;"><strong><span style="color:#2577da;">完成</span> 段考卷訂正(數學段考訂正簽名)</strong></span></li>
+<li><span style="font-size:28px;"><strong><span style="color:#2577da;">完成</span> 地科筆記Ch1-4</strong></span></li>
+<li><span style="font-size:28px;"><strong><span style="color:#2577da;">完成</span> 歷史筆記Ch4,5</strong></span></li>
+<li><span style="font-size:28px;"><strong><span style="color:#d32c64;">考試</span> 黑單,L7單字片語</strong></span></li>
+<li><span style="font-size:28px;"><strong><span style="color:#2577da;">完成</span> 英文段考卷訂正(1)</strong></span></li>
+<li><span style="font-size:28px;"><strong><span style="color:#c90ef1;">交</span> 體溫表</strong></span></li>
+<li><span style="font-size:28px;"><strong><span style="color:#c90ef1;">交</span> 健檢\視力回條</strong></span></li>
+<li><span style="font-size:28px;"><strong><span style="color:#7c7e83;">週記: </span> 補足七篇</strong></span></li>
+<li><span style="font-size:28px;"><strong>服儀檢查</strong></span></li>
+<ol>
